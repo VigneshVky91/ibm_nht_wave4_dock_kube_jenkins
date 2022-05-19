@@ -1,2 +1,3 @@
 Simple text added
 New line added
+New line
